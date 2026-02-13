@@ -5,6 +5,7 @@
   background: #000000;
   border-top: 1px solid #faf8f8;
   border-bottom: 1px solid #fffdfd;
+  margin-top: -0.09rem;
 }
 .marquee__inner {
   display: inline-block;

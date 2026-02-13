@@ -1,7 +1,6 @@
 .hero {
   position: relative;
   width: 100%;
-  max-width: 1440px;
   height: 460px; /* adjust to match design */
   overflow: hidden;
   background: #000;

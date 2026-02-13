@@ -4,7 +4,8 @@ import Hero from "./Components/Hero"
 import Brand from "./Components/Brand"
 import Service from "./Components/Service"
 import Product from "./Components/Product"
-  
+
+
 function App() {
 
 
@@ -14,8 +15,10 @@ function App() {
       <Header />
       <Hero />
       <Brand />
-      <Service /> 
+      <Service />
       <Product />
+
+
     </>
   )
 }
